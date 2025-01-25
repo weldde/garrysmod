@@ -1,7 +1,7 @@
 globalactors
 {
 	"alyx"		"female"
-	"barney"	"male"
+	"barney"	"Torso"
 	"breen"		"male"
 	"eli"		"male"
 	"odell"		"male"
